@@ -33,7 +33,7 @@ A neon cyberpunk–themed endless-flappy game built with pure HTML, CSS, and Jav
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/cyber-flappy.git
+git clone https://github.com/Padumainduwara/Cyber-Flappy-Clone.git
 cd cyber-flappy
 
 # Open the game
